@@ -1,9 +1,6 @@
 [TOC]
 
 # 基于Java的图书管理系统
-## 作者
-辽宁大学 软件工程 林镕琛
-
 ## 需求分析
 
 <img src="readermeImages/用例.png" style="zoom: 67%;" />
